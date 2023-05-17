@@ -4,6 +4,8 @@
 
 Perusahaan VeriFone Inc.bergerak di bidang layanan jasa taxi di Newyork City. Memiliki data 'New York City TLC Trip Record' dimana data berisi data setiap trip taxi dari perusahaan tersebut
 
+Stackholder yang mengambil keputusan disini adalah Manajer Perusahaan Taxi VeriFone Inc.
+
 ## Permasalahan
 Perusahaan ini ingin meningkatkan profit perusahaan dengan mengecek data 'New York City TLC Trip Record'.
 
@@ -12,6 +14,8 @@ Setelah dilihat dari data ternyata **ada permasalahan efesiensi lokasi pick up c
 Sebagai Data Analyst, kita akan mencoba menjawab pertanyaan berikut :
 
 **Bagaimana cara meningkatkan profit perusahaan dan meningkatkan efesiensi lokasi pick up customer**
+
+Link Tableau [di sini](https://public.tableau.com/shared/FQ4HQPZPC?:display_count=n&:origin=viz_share_link)
 
 ## Data 
 
