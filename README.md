@@ -13,7 +13,7 @@ Sebagai Data Analyst, kita akan mencoba menjawab pertanyaan berikut :
 
 **Bagaimana cara meningkatkan profit perusahaan dan meningkatkan efesiensi lokasi pick up customer**
 
-# Data 
+## Data 
 
 Dataset dapat diakses [di sini](https://drive.google.com/drive/folders/1NYHIL-RgVPW-HONz4pdzlcbIChF-c37N). 
 
