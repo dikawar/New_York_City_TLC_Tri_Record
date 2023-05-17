@@ -15,7 +15,7 @@ Sebagai Data Analyst, kita akan mencoba menjawab pertanyaan berikut :
 
 **Bagaimana cara meningkatkan profit perusahaan dan meningkatkan efesiensi lokasi pick up customer**
 
-Link Tableau [di sini](https://public.tableau.com/shared/FQ4HQPZPC?:display_count=n&:origin=viz_share_link)
+## Link Tableau [di sini](https://public.tableau.com/shared/FQ4HQPZPC?:display_count=n&:origin=viz_share_link)
 
 ## Data 
 
